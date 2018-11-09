@@ -1,0 +1,4 @@
+azure
+azure-storage
+azure-storage-blob
+pyspark==2.4.0
